@@ -11,6 +11,19 @@
 |3     |Ogataea haglerorum|8985079     |34064                |30377204.0 |5407   |0.3414852557222925 |6230     |0.3963512173905204 |28766          |284678                   |
 |4     |Ogataea polymorpha|9086554     |32670                |37588682.0 |5233   |0.48286743247220015|6277     |0.5158526543726037 |21991          |217016   
 
+## Гистограммы значеней zh-score
+
+![image](https://user-images.githubusercontent.com/20297250/173408417-4c11f0f3-8a10-451c-9a04-be44aad251f3.png)
+![image](https://user-images.githubusercontent.com/20297250/173408468-75c83b63-f923-4655-b3eb-a93473ab9644.png)
+![image](https://user-images.githubusercontent.com/20297250/173408480-beb91854-083d-4bcc-8f29-d865372b7911.png)
+![image](https://user-images.githubusercontent.com/20297250/173408489-9dbd699d-8c0e-43a5-afb9-a163532bf32a.png)
+![image](https://user-images.githubusercontent.com/20297250/173408500-eb2e8d3a-0902-4c2d-a30e-f3e5602dbb24.png)
+![image](https://user-images.githubusercontent.com/20297250/173408507-51b5283f-2736-4c78-bc13-e3c4a2d4ac6d.png)
+![image](https://user-images.githubusercontent.com/20297250/173408514-1f7d661d-10cc-4b5a-8543-888fbc53dad7.png)
+![image](https://user-images.githubusercontent.com/20297250/173408525-139179f9-fe4e-4e11-8c99-60482a7bdfe3.png)
+![image](https://user-images.githubusercontent.com/20297250/173408534-b75d96bc-c5b4-4869-8051-6e3aae340c39.png)
+![image](https://user-images.githubusercontent.com/20297250/173408544-7714ce2d-c1f5-47d6-8279-3b81398606b7.png)
+
 ## Кластеры
 
 Всего 11778 кластеров. 
